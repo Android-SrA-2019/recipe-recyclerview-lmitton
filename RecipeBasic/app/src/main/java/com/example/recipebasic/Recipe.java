@@ -1,4 +1,4 @@
-package work.nbcc.recipes;
+package com.example.recipebasic;
 
 public class Recipe {
     public Recipe(String name, String description, String image, String ingredients, String directions) {

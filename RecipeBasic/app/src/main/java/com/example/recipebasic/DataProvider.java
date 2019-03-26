@@ -1,4 +1,4 @@
-package work.nbcc.recipes;
+package com.example.recipebasic;
 
 
 import java.util.LinkedList;
@@ -9,10 +9,8 @@ public class DataProvider {
 
     static LinkedList<Recipe> getRecipes() {return recipes;}
 
-
     static {
         recipes = new LinkedList<Recipe>();
-
 
         String name = "Walnut Banana Bread Pudding";
         String description = "My mom has been making this recipe since I was little. " +

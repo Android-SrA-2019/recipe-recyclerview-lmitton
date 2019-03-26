@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Recipe List</string>
+    <string name="action_settings">Settings</string>
+    <string name="recipe_full">Recipes</string>
+    <string name="ingredients_title_text">Ingredients</string>
+    <string name="directions_title_text">Directions</string>
+</resources>
