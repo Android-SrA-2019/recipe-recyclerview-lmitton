@@ -9,7 +9,6 @@ public class DataProvider {
 
     static LinkedList<Recipe> getRecipes() {return recipes;}
 
-
     static {
         recipes = new LinkedList<Recipe>();
 
